@@ -1,25 +1,26 @@
-﻿# Mário Game
-No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar obstáculos que aparecem infinitas vezes na tela. O jogador precisa clicar na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos. Caso o Mario colida com um obstáculo, o jogo é encerrado.
+﻿# Calculadora Simples em HTML, CSS e JavaScript
+Este é um projeto de calculadora desenvolvido utilizando HTML, CSS e JavaScript. A calculadora proporciona uma interface simples e intuitiva para a realização de operações matemáticas básicas, incluindo adição, subtração, multiplicação e divisão.
 
 <div align="center">
 
-![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Mario-Game/blob/main/Captura%20de%20tela%202023-11-28%20104528.png)
+![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Calculadora-/blob/main/Capturar.PNG)
 
 </div>
 
+## Recursos Principais
+
+- **Interface Amigável:** Design intuitivo e fácil de usar para uma experiência do usuário agradável.
+- **Operações Básicas:** Realize operações matemáticas simples com facilidade.
+- **Responsividade:** A calculadora é responsiva e funciona bem em dispositivos de diferentes tamanhos.
 
 
-## Como Jogar:
+## Como Utilizar:
 
-1. Abra o jogo no seu navegador.  
-
-2. Ao iniciar o jogo, o Mario estará em posição inicial.
-
-3. Clique em na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos.
-
-4. Caso o Mario colida com um obstáculo, o jogo é encerrado. A tela de Game Over será exibida.
-
-5. Para jogar novamente, clique na tecla <i>F5</i>.
+1. Clone ou faça o download do repositório.
+   
+3. Abra o arquivo `index.html` em seu navegador web.
+   
+5. Utilize os botões da calculadora para realizar suas operações.
 
 ---
 <div id="tecnologias-utilizadas">
@@ -47,15 +48,9 @@ Alguns meios de contato:
 ---
 <div id="creditos">
 
-## Creditos
 
-Link de acesso ao vídeo do projeto inicial:
 
-https://youtu.be/r9buAwVBDhA
-
-Projeto foi feito pelo canal "Manual do Dev", o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
-
-Este projeto foi inicialmente inspirado no tutorial Como criar um jogo SIMPLES usando JavaScript e HTML (https://youtu.be/r9buAwVBDhA). Agradecimentos especiais a [Manual do Dev] pela criação do projeto base que serviu para muita evolução e aprendizagem.
+Sinta-se à vontade para contribuir, relatar problemas ou fazer sugestões para melhorias. Espero que esta calculadora seja útil para você!
 
 
 </div>
